@@ -751,10 +751,6 @@
 			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/noteyoudao.png"
 		},
 		{
-			"name": "nowe.png",
-			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/nowe.png"
-		},
-		{
 			"name": "np.png",
 			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/np.png"
 		},
@@ -1050,6 +1046,7 @@
 			"name": "surge.png",
 			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/surge.png"
 		},
+		},
 		{
 			"name": "swcloud.png",
 			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/swcloud.png"
@@ -1231,6 +1228,7 @@
 			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/wsxq.png"
 		},
 		{
+		{
 			"name": "wxdaka.png",
 			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/wxdaka.png"
 		},
@@ -1301,7 +1299,6 @@
 		{
 			"name": "yzkb.png",
 			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/yzkb.png"
-		},
 		},
 		{
 			"name": "zaker.png",
