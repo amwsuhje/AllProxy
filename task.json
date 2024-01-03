@@ -34,6 +34,7 @@
 			"name": "52pj.png",
 			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/52pj.png"
 		},
+
 		{
 			"name": "Blibee.png",
 			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/Blibee.png"
@@ -629,6 +630,7 @@
 		{
 			"name": "yzkb.png",
 			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/yzkb.png"
+		},
 		{
 			"name": "zaker.png",
 			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/zaker.png"
@@ -656,6 +658,6 @@
 		{
 			"name": "zymk.png",
 			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/zymk.png"
-		},	
+		},
 	]
 }
