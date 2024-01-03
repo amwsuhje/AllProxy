@@ -1,5 +1,5 @@
 {
-	"name": "Icon Dark",
+	"name": "Icon Gallery",
 	"description": "收集互联网公开图标文件，版权属于原作者和商标持有人。",
 	"icons": [
 		{
@@ -142,6 +142,7 @@
 			"name": "Back.png",
 			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/dark/Back.png"
 		},
+		{
 			"name": "Bahamut.png",
 			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/dark/Bahamut.png"
 		},
@@ -1220,6 +1221,7 @@
 		{
 			"name": "＊0.3.png",
 			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/dark/＊0.3.png"
-		},	
+		},
+		}
 	]
 }
