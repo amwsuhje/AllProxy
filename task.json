@@ -1,0 +1,661 @@
+{
+	"name": "Icon Task",
+	"description": "收集互联网公开图标文件，版权属于原作者和商标持有人。",
+	"icons": [
+		{
+			"name": "10000.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/10000.png"
+		},
+		{
+			"name": "10010.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/10010.png"
+		},
+		{
+			"name": "10086.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/10086.png"
+		},
+		{
+			"name": "10086fee.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/10086fee.png"
+		},
+		{
+			"name": "115.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/115.png"
+		},
+		{
+			"name": "12306.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/12306.png"
+		},
+		{
+			"name": "163GameVip.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/163GameVip.png"
+		},
+		{
+			"name": "52pj.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/52pj.png"
+		},
+		{
+			"name": "Blibee.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/Blibee.png"
+		},
+		{
+			"name": "COVID-19.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/COVID-19.png"
+		},
+		{
+			"name": "Domino.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/Domino.png"
+		},
+		{
+			"name": "KuaiKan.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/KuaiKan.png"
+		},
+		{
+			"name": "MovieCalendar.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/MovieCalendar.png"
+		},
+		{
+			"name": "Naixue.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/Naixue.png"
+		},
+		{
+			"name": "Oclean.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/Oclean.png"
+		},
+		{
+			"name": "Orz-3.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/Orz-3.png"
+		},
+		{
+			"name": "PSN.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/PSN.png"
+		},
+		{
+			"name": "QQ.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/QQ.png"
+		},
+		{
+			"name": "SONY.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/SONY.png"
+		},
+		{
+			"name": "WIFI.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/WIFI.png"
+		},
+		{
+			"name": "ZMTeacher.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/ZMTeacher.png"
+		},
+		{
+			"name": "acfun.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/acfun.png"
+		},
+		{
+			"name": "airport.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/airport.png"
+		},
+		{
+			"name": "alipay.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/alipay.png"
+		},
+		{
+			"name": "angelalign.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/angelalign.png"
+		},
+		{
+			"name": "apktw.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/apktw.png"
+		},
+		{
+			"name": "appstore.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/appstore.png"
+		},
+		{
+			"name": "baidu.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/baidu.png"
+		},
+		{
+			"name": "bcz.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/bcz.png"
+		},
+		{
+			"name": "bilibili.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/bilibili.png"
+		},
+		{
+			"name": "birthday.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/birthday.png"
+		},
+		{
+			"name": "biyao.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/biyao.png"
+		},
+		{
+			"name": "box.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/box.png"
+		},
+		{
+			"name": "bubei.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/bubei.png"
+		},
+		{
+			"name": "caiyun.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/caiyun.png"
+		},
+		{
+			"name": "calendar.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/calendar.png"
+		},
+		{
+			"name": "cmbchina.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/cmbchina.png"
+		},
+		{
+			"name": "csdn.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/csdn.png"
+		},
+		{
+			"name": "ctrip.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/ctrip.png"
+		},
+		{
+			"name": "daysmatter.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/daysmatter.png"
+		},
+		{
+			"name": "dbsj.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/dbsj.png"
+		},
+		{
+			"name": "dianshijia.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/dianshijia.png"
+		},
+		{
+			"name": "didi.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/didi.png"
+		},
+		{
+			"name": "dingtalk.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/dingtalk.png"
+		},
+		{
+			"name": "dongqiudi.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/dongqiudi.png"
+		},
+		{
+			"name": "douyu.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/douyu.png"
+		},
+		{
+			"name": "duokan.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/duokan.png"
+		},
+		{
+			"name": "elem.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/elem.png"
+		},
+		{
+			"name": "elong.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/elong.png"
+		},
+		{
+			"name": "epic.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/epic.png"
+		},
+		{
+			"name": "everphoto.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/everphoto.png"
+		},
+		{
+			"name": "exchangerate.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/exchangerate.png"
+		},
+		{
+			"name": "fandeng.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/fandeng.png"
+		},
+		{
+			"name": "fcz.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/fcz.png"
+		},
+		{
+			"name": "feng.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/feng.png"
+		},
+		{
+			"name": "fenqile.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/fenqile.png"
+		},
+		{
+			"name": "flyertea.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/flyertea.png"
+		},
+		{
+			"name": "funboat.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/funboat.png"
+		},
+		{
+			"name": "gdoil.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/gdoil.png"
+		},
+		{
+			"name": "geekhub.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/geekhub.png"
+		},
+		{
+			"name": "github.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/github.png"
+		},
+		{
+			"name": "haidilao.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/haidilao.png"
+		},
+		{
+			"name": "hdhyc.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/hdhyc.png"
+		},
+		{
+			"name": "hellbike.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/hellbike.png"
+		},
+		{
+			"name": "heybox.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/heybox.png"
+		},
+		{
+			"name": "historyToday.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/historyToday.png"
+		},
+		{
+			"name": "hot.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/hot.png"
+		},
+		{
+			"name": "htt.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/htt.png"
+		},
+		{
+			"name": "hycan.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/hycan.png"
+		},
+		{
+			"name": "iQIYI.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/iQIYI.png"
+		},
+		{
+			"name": "icbc.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/icbc.png"
+		},
+		{
+			"name": "idaily.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/idaily.png"
+		},
+		{
+			"name": "ithome.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/ithome.png"
+		},
+		{
+			"name": "jd.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/jd.png"
+		},
+		{
+			"name": "jdczf.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/jdczf.png"
+		},
+		{
+			"name": "jddj.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/jddj.png"
+		},
+		{
+			"name": "jdds.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/jdds.png"
+		},
+		{
+			"name": "jegotrip.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/jegotrip.png"
+		},
+		{
+			"name": "jingxi.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/jingxi.png"
+		},
+		{
+			"name": "jrtt.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/jrtt.png"
+		},
+		{
+			"name": "kuaishou.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/kuaishou.png"
+		},
+		{
+			"name": "liwo.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/liwo.png"
+		},
+		{
+			"name": "lkyl.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/lkyl.png"
+		},
+		{
+			"name": "lol.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/lol.png"
+		},
+		{
+			"name": "loon.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/loon.png"
+		},
+		{
+			"name": "lxhealth.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/lxhealth.png"
+		},
+		{
+			"name": "lxsj.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/lxsj.png"
+		},
+		{
+			"name": "manga.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/manga.png"
+		},
+		{
+			"name": "maomicd.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/maomicd.png"
+		},
+		{
+			"name": "maoyan.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/maoyan.png"
+		},
+		{
+			"name": "mcdd.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/mcdd.png"
+		},
+		{
+			"name": "meituan.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/meituan.png"
+		},
+		{
+			"name": "mgtv.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/mgtv.png"
+		},
+		{
+			"name": "midu.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/midu.png"
+		},
+		{
+			"name": "mihoyo.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/mihoyo.png"
+		},
+		{
+			"name": "momo.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/momo.png"
+		},
+		{
+			"name": "muchong.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/muchong.png"
+		},
+		{
+			"name": "mydigit.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/mydigit.png"
+		},
+		{
+			"name": "mygmc.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/mygmc.png"
+		},
+		{
+			"name": "nasa.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/nasa.png"
+		},
+		{
+			"name": "neteasemusic.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/neteasemusic.png"
+		},
+		{
+			"name": "neteasenews.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/neteasenews.png"
+		},
+		{
+			"name": "nfzm.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/nfzm.png"
+		},
+		{
+			"name": "nga.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/nga.png"
+		},
+		{
+			"name": "nio.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/nio.png"
+		},
+		{
+			"name": "noteyoudao.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/noteyoudao.png"
+		},
+		{
+			"name": "pagoda.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/pagoda.png"
+		},
+		{
+			"name": "qczj.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/qczj.png"
+		},
+		{
+			"name": "qimao.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/qimao.png"
+		},
+		{
+			"name": "qktx.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/qktx.png"
+		},
+		{
+			"name": "qkyl.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/qkyl.png"
+		},
+		{
+			"name": "qmkg.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/qmkg.png"
+		},
+		{
+			"name": "qqmusic.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/qqmusic.png"
+		},
+		{
+			"name": "qqvip.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/qqvip.png"
+		},
+		{
+			"name": "qtt.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/qtt.png"
+		},
+		{
+			"name": "quantumultx.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/quantumultx.png"
+		},
+		{
+			"name": "qunar.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/qunar.png"
+		},
+		{
+			"name": "quwalk.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/quwalk.png"
+		},
+		{
+			"name": "rrtv.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/rrtv.png"
+		},
+		{
+			"name": "sfexpress.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/sfexpress.png"
+		},
+		{
+			"name": "sinanews.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/sinanews.png"
+		},
+		{
+			"name": "smzdm.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/smzdm.png"
+		},
+		{
+			"name": "steam.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/steam.png"
+		},
+		{
+			"name": "studygolang.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/studygolang.png"
+		},
+		{
+			"name": "suning.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/suning.png"
+		},
+		{
+			"name": "surge.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/surge.png"
+		},
+		{
+			"name": "telecominfinty.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/telecominfinty.png"
+		},
+		{
+			"name": "testflight.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/testflight.png"
+		},
+		{
+			"name": "tgpic.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/tgpic.png"
+		},
+		{
+			"name": "thg.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/thg.png"
+		},
+		{
+			"name": "tieba.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/tieba.png"
+		},
+		{
+			"name": "time.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/time.png"
+		},
+		{
+			"name": "tongc.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/tongc.png"
+		},
+		{
+			"name": "translate.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/translate.png"
+		},
+		{
+			"name": "ttwkxcx.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/ttwkxcx.png"
+		},
+		{
+			"name": "tuhu.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/tuhu.png"
+		},
+		{
+			"name": "txnews.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/txnews.png"
+		},
+		{
+			"name": "umer.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/umer.png"
+		},
+		{
+			"name": "umetrip.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/umetrip.png"
+		},
+		{
+			"name": "unipay.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/unipay.png"
+		},
+		{
+			"name": "v2ex.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/v2ex.png"
+		},
+		{
+			"name": "videoqq.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/videoqq.png"
+		},
+		{
+			"name": "wanda.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/wanda.png"
+		},
+		{
+			"name": "weather.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/weather.png"
+		},
+		{
+			"name": "weibo.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/weibo.png"
+		},
+		{
+			"name": "wmmeituan.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/wmmeituan.png"
+		},
+		{
+			"name": "wps.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/wps.png"
+		},
+		{
+			"name": "wsxq.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/wsxq.png"
+		},
+		{
+			"name": "wxdaka.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/wxdaka.png"
+		},
+		{
+			"name": "wykl.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/wykl.png"
+		},
+		{
+			"name": "xiaomiyp.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/xiaomiyp.png"
+		},
+		{
+			"name": "ximalaya.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/ximalaya.png"
+		},
+		{
+			"name": "xxys.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/xxys.png"
+		},
+		{
+			"name": "yanxuan.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/yanxuan.png"
+		},
+		{
+			"name": "ymatou.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/ymatou.png"
+		},
+		{
+			"name": "youth.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/youth.png"
+		},
+		{
+			"name": "yzkb.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/yzkb.png"
+		{
+			"name": "zaker.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/zaker.png"
+		},
+		{
+			"name": "zimuzu.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/zimuzu.png"
+		},
+		{
+			"name": "zongheng.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/zongheng.png"
+		},
+		{
+			"name": "zscdb.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/zscdb.png"
+		},
+		{
+			"name": "zsfc.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/zsfc.png"
+		},
+		{
+			"name": "zxhc.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/zxhc.png"
+		},
+		{
+			"name": "zymk.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/zymk.png"
+		},	
+	]
+}

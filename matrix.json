@@ -1,0 +1,14 @@
+{
+	"name": "Icon Matrix",
+	"description": "收集互联网公开图标文件，版权属于原作者和商标持有人。",
+	"icons": [
+		{
+			"name": "bark.jpg",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/matrix/color/bark.jpg"
+		},
+		{
+			"name": "bark.jpg",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/matrix/dark/bark.jpg"
+		},
+	]
+}

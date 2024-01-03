@@ -1,0 +1,1378 @@
+{
+	"name": "Icon Qure_Color",
+	"description": "收集互联网公开图标文件，版权属于原作者和商标持有人。",
+	"icons": [
+		{
+			"name": "5iTV.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/5iTV.png"
+		},
+		{
+			"name": "AGA.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/AGA.png"
+		},
+		{
+			"name": "AIA.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/AIA.png"
+		},
+		{
+			"name": "AR.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/AR.png"
+		},
+		{
+			"name": "AU.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/AU.png"
+		},
+		{
+			"name": "AbemaTV.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/AbemaTV.png"
+		},
+		{
+			"name": "AbemaTV_Letter.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/AbemaTV_Letter.png"
+		},
+		{
+			"name": "AdBlack.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/AdBlack.png"
+		},
+		{
+			"name": "AdWhite.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/AdWhite.png"
+		},
+		{
+			"name": "Advertising.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Advertising.png"
+		},
+		{
+			"name": "AfreecaTV.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/AfreecaTV.png"
+		},
+		{
+			"name": "Africa_Map.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Africa_Map.png"
+		},
+		{
+			"name": "Airport.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Airport.png"
+		},
+		{
+			"name": "Alibaba.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Alibaba.png"
+		},
+		{
+			"name": "All4.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/All4.png"
+		},
+		{
+			"name": "Amazon.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Amazon.png"
+		},
+		{
+			"name": "Amazon_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Amazon_1.png"
+		},
+		{
+			"name": "America_Map.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/America_Map.png"
+		},
+		{
+			"name": "AmyTelecom.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/AmyTelecom.png"
+		},
+		{
+			"name": "AmyTelecom_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/AmyTelecom_1.png"
+		},
+		{
+			"name": "App_Store.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/App_Store.png"
+		},
+		{
+			"name": "Apple.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Apple.png"
+		},
+		{
+			"name": "Apple_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Apple_1.png"
+		},
+		{
+			"name": "Apple_2.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Apple_2.png"
+		},
+		{
+			"name": "Apple_Fitness+.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Apple_Fitness+.png"
+		},
+		{
+			"name": "Apple_Fitness+_Letter.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Apple_Fitness+_Letter.png"
+		},
+		{
+			"name": "Apple_Fitness.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Apple_Fitness.png"
+		},
+		{
+			"name": "Apple_Music.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Apple_Music.png"
+		},
+		{
+			"name": "Apple_News.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Apple_News.png"
+		},
+		{
+			"name": "Apple_TV.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Apple_TV.png"
+		},
+		{
+			"name": "Apple_TV_Plus.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Apple_TV_Plus.png"
+		},
+		{
+			"name": "Apple_Update.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Apple_Update.png"
+		},
+		{
+			"name": "Area.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Area.png"
+		},
+		{
+			"name": "Argentina.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Argentina.png"
+		},
+		{
+			"name": "Asia_Map.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Asia_Map.png"
+		},
+		{
+			"name": "Australia.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Australia.png"
+		},
+		{
+			"name": "Auto.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Auto.png"
+		},
+		{
+			"name": "Available.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Available.png"
+		},
+		{
+			"name": "Available_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Available_1.png"
+		},
+		{
+			"name": "Available_Alt.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Available_Alt.png"
+		},
+		{
+			"name": "Azure.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Azure.png"
+		},
+		{
+			"name": "BBC_iPlayer.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/BBC_iPlayer.png"
+		},
+		{
+			"name": "BBC_iPlayer_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/BBC_iPlayer_1.png"
+		},
+		{
+			"name": "BBC_iPlayer_2.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/BBC_iPlayer_2.png"
+		},
+		{
+			"name": "BGP.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/BGP.png"
+		},
+		{
+			"name": "BR.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/BR.png"
+		},
+		{
+			"name": "Back.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Back.png"
+		},
+		{
+			"name": "Bahamut.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Bahamut.png"
+		},
+		{
+			"name": "Bamboo.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Bamboo.png"
+		},
+		{
+			"name": "Blackhole.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Blackhole.png"
+		},
+		{
+			"name": "Blinkload.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Blinkload.png"
+		},
+		{
+			"name": "Blinkload_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Blinkload_1.png"
+		},
+		{
+			"name": "Bookpedia.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Bookpedia.png"
+		},
+		{
+			"name": "BosLife.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/BosLife.png"
+		},
+		{
+			"name": "BosLife_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/BosLife_1.png"
+		},
+		{
+			"name": "Bot.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Bot.png"
+		},
+		{
+			"name": "Brazil.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Brazil.png"
+		},
+		{
+			"name": "Bypass.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Bypass.png"
+		},
+		{
+			"name": "CA.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/CA.png"
+		},
+		{
+			"name": "CC.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/CC.png"
+		},
+		{
+			"name": "CN.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/CN.png"
+		},
+		{
+			"name": "Canada.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Canada.png"
+		},
+		{
+			"name": "Cat.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Cat.png"
+		},
+		{
+			"name": "Catnet.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Catnet.png"
+		},
+		{
+			"name": "Cellular.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Cellular.png"
+		},
+		{
+			"name": "China.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/China.png"
+		},
+		{
+			"name": "China_Map.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/China_Map.png"
+		},
+		{
+			"name": "Cloudflare.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Cloudflare.png"
+		},
+		{
+			"name": "Clubhouse.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Clubhouse.png"
+		},
+		{
+			"name": "Clubhouse_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Clubhouse_1.png"
+		},
+		{
+			"name": "Clubhouse_2.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Clubhouse_2.png"
+		},
+		{
+			"name": "CreamData.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/CreamData.png"
+		},
+		{
+			"name": "Cryptocurrency.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Cryptocurrency.png"
+		},
+		{
+			"name": "Cryptocurrency_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Cryptocurrency_1.png"
+		},
+		{
+			"name": "Cryptocurrency_2.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Cryptocurrency_2.png"
+		},
+		{
+			"name": "Cryptocurrency_3.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Cryptocurrency_3.png"
+		},
+		{
+			"name": "Cydia.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Cydia.png"
+		},
+		{
+			"name": "DAZN.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/DAZN.png"
+		},
+		{
+			"name": "DAZN_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/DAZN_1.png"
+		},
+		{
+			"name": "DAZN_2.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/DAZN_2.png"
+		},
+		{
+			"name": "DE.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/DE.png"
+		},
+		{
+			"name": "Daily.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Daily.png"
+		},
+		{
+			"name": "Dinosaur.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Dinosaur.png"
+		},
+		{
+			"name": "Direct.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Direct.png"
+		},
+		{
+			"name": "Discord.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Discord.png"
+		},
+		{
+			"name": "Disney+.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Disney+.png"
+		},
+		{
+			"name": "Disney+_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Disney+_1.png"
+		},
+		{
+			"name": "Disney+_2.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Disney+_2.png"
+		},
+		{
+			"name": "Disney.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Disney.png"
+		},
+		{
+			"name": "Domestic.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Domestic.png"
+		},
+		{
+			"name": "DomesticMedia.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/DomesticMedia.png"
+		},
+		{
+			"name": "Download.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Download.png"
+		},
+		{
+			"name": "Drill.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Drill.png"
+		},
+		{
+			"name": "EG.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/EG.png"
+		},
+		{
+			"name": "ESPN+.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/ESPN+.png"
+		},
+		{
+			"name": "ESPN+_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/ESPN+_1.png"
+		},
+		{
+			"name": "ESPN+_2.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/ESPN+_2.png"
+		},
+		{
+			"name": "EU.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/EU.png"
+		},
+		{
+			"name": "Egypt.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Egypt.png"
+		},
+		{
+			"name": "Emby.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Emby.png"
+		},
+		{
+			"name": "Europe_Map.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Europe_Map.png"
+		},
+		{
+			"name": "European_Union.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/European_Union.png"
+		},
+		{
+			"name": "FI.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/FI.png"
+		},
+		{
+			"name": "FOX.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/FOX.png"
+		},
+		{
+			"name": "FR.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/FR.png"
+		},
+		{
+			"name": "Facebook.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Facebook.png"
+		},
+		{
+			"name": "Filter.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Filter.png"
+		},
+		{
+			"name": "Final.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Final.png"
+		},
+		{
+			"name": "Final_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Final_1.png"
+		},
+		{
+			"name": "Find_My.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Find_My.png"
+		},
+		{
+			"name": "Finland.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Finland.png"
+		},
+		{
+			"name": "Flamingo.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Flamingo.png"
+		},
+		{
+			"name": "ForeignMedia.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/ForeignMedia.png"
+		},
+		{
+			"name": "France.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/France.png"
+		},
+		{
+			"name": "Fries.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Fries.png"
+		},
+		{
+			"name": "Frog.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Frog.png"
+		},
+		{
+			"name": "GIA.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/GIA.png"
+		},
+		{
+			"name": "Game.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Game.png"
+		},
+		{
+			"name": "Germany.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Germany.png"
+		},
+		{
+			"name": "GitHub.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/GitHub.png"
+		},
+		{
+			"name": "GitHub_Letter.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/GitHub_Letter.png"
+		},
+		{
+			"name": "Gmail.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Gmail.png"
+		},
+		{
+			"name": "Google.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Google.png"
+		},
+		{
+			"name": "Google_Drive.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Google_Drive.png"
+		},
+		{
+			"name": "Google_Opinion_Rewards.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Google_Opinion_Rewards.png"
+		},
+		{
+			"name": "Google_Search.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Google_Search.png"
+		},
+		{
+			"name": "HBO.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/HBO.png"
+		},
+		{
+			"name": "HBO_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/HBO_1.png"
+		},
+		{
+			"name": "HBO_2.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/HBO_2.png"
+		},
+		{
+			"name": "HBO_GO.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/HBO_GO.png"
+		},
+		{
+			"name": "HBO_GO_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/HBO_GO_1.png"
+		},
+		{
+			"name": "HBO_GO_2.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/HBO_GO_2.png"
+		},
+		{
+			"name": "HBO_Max.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/HBO_Max.png"
+		},
+		{
+			"name": "HC.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/HC.png"
+		},
+		{
+			"name": "HK.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/HK.png"
+		},
+		{
+			"name": "HKMTMedia.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/HKMTMedia.png"
+		},
+		{
+			"name": "Heart.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Heart.png"
+		},
+		{
+			"name": "Hijacking.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Hijacking.png"
+		},
+		{
+			"name": "Hong_Kong.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Hong_Kong.png"
+		},
+		{
+			"name": "Hulu.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Hulu.png"
+		},
+		{
+			"name": "Hulu_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Hulu_1.png"
+		},
+		{
+			"name": "IEPL.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/IEPL.png"
+		},
+		{
+			"name": "IN.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/IN.png"
+		},
+		{
+			"name": "IPLC.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/IPLC.png"
+		},
+		{
+			"name": "ITV.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/ITV.png"
+		},
+		{
+			"name": "ITV_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/ITV_1.png"
+		},
+		{
+			"name": "ITV_2.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/ITV_2.png"
+		},
+		{
+			"name": "India.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/India.png"
+		},
+		{
+			"name": "Infuse.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Infuse.png"
+		},
+		{
+			"name": "Infuse_7.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Infuse_7.png"
+		},
+		{
+			"name": "Ingress.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Ingress.png"
+		},
+		{
+			"name": "Instagram.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Instagram.png"
+		},
+		{
+			"name": "JOOX.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/JOOX.png"
+		},
+		{
+			"name": "JP.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/JP.png"
+		},
+		{
+			"name": "Japan-1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Japan-1.png"
+		},
+		{
+			"name": "Japan.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Japan.png"
+		},
+		{
+			"name": "KKBOX.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/KKBOX.png"
+		},
+		{
+			"name": "KR.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/KR.png"
+		},
+		{
+			"name": "Kakao.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Kakao.png"
+		},
+		{
+			"name": "Korea.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Korea.png"
+		},
+		{
+			"name": "LA.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/LA.png"
+		},
+		{
+			"name": "LA_Map.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/LA_Map.png"
+		},
+		{
+			"name": "LOL.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/LOL.png"
+		},
+		{
+			"name": "Lab.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Lab.png"
+		},
+		{
+			"name": "Lambda.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Lambda.png"
+		},
+		{
+			"name": "League_of_Legends.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/League_of_Legends.png"
+		},
+		{
+			"name": "LiTV.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/LiTV.png"
+		},
+		{
+			"name": "Line.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Line.png"
+		},
+		{
+			"name": "LineTV.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/LineTV.png"
+		},
+		{
+			"name": "Linkedin.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Linkedin.png"
+		},
+		{
+			"name": "Lock.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Lock.png"
+		},
+		{
+			"name": "Loop.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Loop.png"
+		},
+		{
+			"name": "Luffy.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Luffy.png"
+		},
+		{
+			"name": "MO.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/MO.png"
+		},
+		{
+			"name": "MY.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/MY.png"
+		},
+		{
+			"name": "Macao.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Macao.png"
+		},
+		{
+			"name": "Magic.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Magic.png"
+		},
+		{
+			"name": "Mail.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Mail.png"
+		},
+		{
+			"name": "Malaysia.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Malaysia.png"
+		},
+		{
+			"name": "Media.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Media.png"
+		},
+		{
+			"name": "Mickey.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Mickey.png"
+		},
+		{
+			"name": "Microsoft.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Microsoft.png"
+		},
+		{
+			"name": "Mouse.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Mouse.png"
+		},
+		{
+			"name": "Music_Enhance.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Music_Enhance.png"
+		},
+		{
+			"name": "My5.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/My5.png"
+		},
+		{
+			"name": "NBA.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/NBA.png"
+		},
+		{
+			"name": "NBC.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/NBC.png"
+		},
+		{
+			"name": "Naiko.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Naiko.png"
+		},
+		{
+			"name": "Netease_Music.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Netease_Music.png"
+		},
+		{
+			"name": "Netease_Music_Unlock.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Netease_Music_Unlock.png"
+		},
+		{
+			"name": "Netflix.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Netflix.png"
+		},
+		{
+			"name": "Netflix_Letter.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Netflix_Letter.png"
+		},
+		{
+			"name": "Nfcloud.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Nfcloud.png"
+		},
+		{
+			"name": "Ninja.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Ninja.png"
+		},
+		{
+			"name": "Nintendo.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Nintendo.png"
+		},
+		{
+			"name": "Notion.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Notion.png"
+		},
+		{
+			"name": "Null_Nation.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Null_Nation.png"
+		},
+		{
+			"name": "Oceania_Map.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Oceania_Map.png"
+		},
+		{
+			"name": "OneDrive.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/OneDrive.png"
+		},
+		{
+			"name": "Ox.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Ox.png"
+		},
+		{
+			"name": "PBS.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/PBS.png"
+		},
+		{
+			"name": "PH.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/PH.png"
+		},
+		{
+			"name": "Panda.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Panda.png"
+		},
+		{
+			"name": "Pandora.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Pandora.png"
+		},
+		{
+			"name": "Paramount.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Paramount.png"
+		},
+		{
+			"name": "PayPal.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/PayPal.png"
+		},
+		{
+			"name": "Peacock.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Peacock.png"
+		},
+		{
+			"name": "Peacock_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Peacock_1.png"
+		},
+		{
+			"name": "Peacock_2.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Peacock_2.png"
+		},
+		{
+			"name": "Philippines.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Philippines.png"
+		},
+		{
+			"name": "Pig.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Pig.png"
+		},
+		{
+			"name": "Pirate_Nation.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Pirate_Nation.png"
+		},
+		{
+			"name": "PlayStation.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/PlayStation.png"
+		},
+		{
+			"name": "PlayStation_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/PlayStation_1.png"
+		},
+		{
+			"name": "Pornhub.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Pornhub.png"
+		},
+		{
+			"name": "Pornhub_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Pornhub_1.png"
+		},
+		{
+			"name": "Pornhub_2.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Pornhub_2.png"
+		},
+		{
+			"name": "PostBox.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/PostBox.png"
+		},
+		{
+			"name": "PostBox_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/PostBox_1.png"
+		},
+		{
+			"name": "PostBox_Alt.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/PostBox_Alt.png"
+		},
+		{
+			"name": "Prime_Video.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Prime_Video.png"
+		},
+		{
+			"name": "Prime_Video_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Prime_Video_1.png"
+		},
+		{
+			"name": "Prime_Video_2.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Prime_Video_2.png"
+		},
+		{
+			"name": "Proxy.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Proxy.png"
+		},
+		{
+			"name": "Puzzle.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Puzzle.png"
+		},
+		{
+			"name": "QQ.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/QQ.png"
+		},
+		{
+			"name": "Quantumult_X.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Quantumult_X.png"
+		},
+		{
+			"name": "Qure.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Qure.png"
+		},
+		{
+			"name": "RU.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/RU.png"
+		},
+		{
+			"name": "Rainbow.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Rainbow.png"
+		},
+		{
+			"name": "Rainbow_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Rainbow_1.png"
+		},
+		{
+			"name": "Reject.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Reject.png"
+		},
+		{
+			"name": "Renzhe.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Renzhe.png"
+		},
+		{
+			"name": "Ring.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Ring.png"
+		},
+		{
+			"name": "Rocket.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Rocket.png"
+		},
+		{
+			"name": "Round_Robin.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Round_Robin.png"
+		},
+		{
+			"name": "Round_Robin_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Round_Robin_1.png"
+		},
+		{
+			"name": "Round_Robin_Alt.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Round_Robin_Alt.png"
+		},
+		{
+			"name": "Russia.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Russia.png"
+		},
+		{
+			"name": "Ryan.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Ryan.png"
+		},
+		{
+			"name": "SG.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/SG.png"
+		},
+		{
+			"name": "SSID.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/SSID.png"
+		},
+		{
+			"name": "SSID_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/SSID_1.png"
+		},
+		{
+			"name": "SSID_Alt.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/SSID_Alt.png"
+		},
+		{
+			"name": "SSL.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/SSL.png"
+		},
+		{
+			"name": "STARZ.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/STARZ.png"
+		},
+		{
+			"name": "Scholar.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Scholar.png"
+		},
+		{
+			"name": "Server.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Server.png"
+		},
+		{
+			"name": "Singapore.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Singapore.png"
+		},
+		{
+			"name": "Siri.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Siri.png"
+		},
+		{
+			"name": "Sling_TV.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Sling_TV.png"
+		},
+		{
+			"name": "Spark.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Spark.png"
+		},
+		{
+			"name": "Speedtest.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Speedtest.png"
+		},
+		{
+			"name": "Spotify.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Spotify.png"
+		},
+		{
+			"name": "Stack.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Stack.png"
+		},
+		{
+			"name": "Star+.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Star+.png"
+		},
+		{
+			"name": "Star.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Star.png"
+		},
+		{
+			"name": "Star_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Star_1.png"
+		},
+		{
+			"name": "Star_2.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Star_2.png"
+		},
+		{
+			"name": "Static.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Static.png"
+		},
+		{
+			"name": "Static_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Static_1.png"
+		},
+		{
+			"name": "Static_Alt.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Static_Alt.png"
+		},
+		{
+			"name": "Steam.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Steam.png"
+		},
+		{
+			"name": "Streaming.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Streaming.png"
+		},
+		{
+			"name": "StreamingCN.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/StreamingCN.png"
+		},
+		{
+			"name": "StreamingSE.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/StreamingSE.png"
+		},
+		{
+			"name": "TAG.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/TAG.png"
+		},
+		{
+			"name": "TH.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/TH.png"
+		},
+		{
+			"name": "TIDAL.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/TIDAL.png"
+		},
+		{
+			"name": "TIDAL_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/TIDAL_1.png"
+		},
+		{
+			"name": "TIDAL_2.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/TIDAL_2.png"
+		},
+		{
+			"name": "TR.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/TR.png"
+		},
+		{
+			"name": "TVB.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/TVB.png"
+		},
+		{
+			"name": "TW.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/TW.png"
+		},
+		{
+			"name": "Taiwan.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Taiwan.png"
+		},
+		{
+			"name": "Taobao.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Taobao.png"
+		},
+		{
+			"name": "Telegram.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Telegram.png"
+		},
+		{
+			"name": "Telegram_X.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Telegram_X.png"
+		},
+		{
+			"name": "TestFlight.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/TestFlight.png"
+		},
+		{
+			"name": "TestFlight_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/TestFlight_1.png"
+		},
+		{
+			"name": "TestFlight_2.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/TestFlight_2.png"
+		},
+		{
+			"name": "Thailand.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Thailand.png"
+		},
+		{
+			"name": "TikTok.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/TikTok.png"
+		},
+		{
+			"name": "TikTok_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/TikTok_1.png"
+		},
+		{
+			"name": "TikTok_2.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/TikTok_2.png"
+		},
+		{
+			"name": "TikTok_Alt.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/TikTok_Alt.png"
+		},
+		{
+			"name": "Tubi.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Tubi.png"
+		},
+		{
+			"name": "Turkey.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Turkey.png"
+		},
+		{
+			"name": "Twitch.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Twitch.png"
+		},
+		{
+			"name": "Twitter.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Twitter.png"
+		},
+		{
+			"name": "UK.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/UK.png"
+		},
+		{
+			"name": "ULB.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/ULB.png"
+		},
+		{
+			"name": "ULB_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/ULB_1.png"
+		},
+		{
+			"name": "ULB_Alt.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/ULB_Alt.png"
+		},
+		{
+			"name": "UN.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/UN.png"
+		},
+		{
+			"name": "US.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/US.png"
+		},
+		{
+			"name": "United_Kingdom.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/United_Kingdom.png"
+		},
+		{
+			"name": "United_Nations.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/United_Nations.png"
+		},
+		{
+			"name": "United_States.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/United_States.png"
+		},
+		{
+			"name": "United_States_Map.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/United_States_Map.png"
+		},
+		{
+			"name": "Unlock.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Unlock.png"
+		},
+		{
+			"name": "VIP.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/VIP.png"
+		},
+		{
+			"name": "Vimeo.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Vimeo.png"
+		},
+		{
+			"name": "Viu.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Viu.png"
+		},
+		{
+			"name": "ViuTV.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/ViuTV.png"
+		},
+		{
+			"name": "Want_Want.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Want_Want.png"
+		},
+		{
+			"name": "Want_Want_Letter.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Want_Want_Letter.png"
+		},
+		{
+			"name": "WeChat.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/WeChat.png"
+		},
+		{
+			"name": "WeTV.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/WeTV.png"
+		},
+		{
+			"name": "WeTV_Letter.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/WeTV_Letter.png"
+		},
+		{
+			"name": "Weibo.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Weibo.png"
+		},
+		{
+			"name": "WiFi.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/WiFi.png"
+		},
+		{
+			"name": "Windows.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Windows.png"
+		},
+		{
+			"name": "Windows_11.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Windows_11.png"
+		},
+		{
+			"name": "World_Map.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/World_Map.png"
+		},
+		{
+			"name": "Xbox.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Xbox.png"
+		},
+		{
+			"name": "Yahoo.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Yahoo.png"
+		},
+		{
+			"name": "Yahoo_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Yahoo_1.png"
+		},
+		{
+			"name": "YouTube.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/YouTube.png"
+		},
+		{
+			"name": "YouTube_Letter.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/YouTube_Letter.png"
+		},
+		{
+			"name": "YouTube_Music.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/YouTube_Music.png"
+		},
+		{
+			"name": "bilibili.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/bilibili.png"
+		},
+		{
+			"name": "bilibili_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/bilibili_1.png"
+		},
+		{
+			"name": "bilibili_2.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/bilibili_2.png"
+		},
+		{
+			"name": "bilibili_3.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/bilibili_3.png"
+		},
+		{
+			"name": "bilibili_4.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/bilibili_4.png"
+		},
+		{
+			"name": "deezer.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/deezer.png"
+		},
+		{
+			"name": "deezer_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/deezer_1.png"
+		},
+		{
+			"name": "deezer_2.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/deezer_2.png"
+		},
+		{
+			"name": "discovery+.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/discovery+.png"
+		},
+		{
+			"name": "encoreTVB.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/encoreTVB.png"
+		},
+		{
+			"name": "friDay.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/friDay.png"
+		},
+		{
+			"name": "friDay_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/friDay_1.png"
+		},
+		{
+			"name": "fuboTV.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/fuboTV.png"
+		},
+		{
+			"name": "iCloud.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/iCloud.png"
+		},
+		{
+			"name": "iQIYI&bilibili.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/iQIYI&bilibili.png"
+		},
+		{
+			"name": "iQIYI.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/iQIYI.png"
+		},
+		{
+			"name": "iQIYI_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/iQIYI_1.png"
+		},
+		{
+			"name": "myTV_SUPER.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/myTV_SUPER.png"
+		},
+		{
+			"name": "niconico.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/niconico.png"
+		},
+		{
+			"name": "niconico_1.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/niconico_1.png"
+		},
+		{
+			"name": "niconico_2.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/niconico_2.png"
+		},
+		{
+			"name": "ssLinks.png",
+			"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/ssLinks.png"
+		},
+	]
+}
