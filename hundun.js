@@ -22,7 +22,7 @@ hostname = *.hundun.*
 
 [rewrite_local]
 
-^http[s]?:\/\/(course|user)\.hundun\.cn\/(get_course_detail|get_user_info|user\/adviser\/get)\? url script-response-body https://raw.githubusercontent.com/WeiRen0/Scripts/main/hundun.js
+^http[s]?:\/\/(course|user)\.hundun\.cn\/(get_course_detail|get_user_info|user\/adviser\/get)\? url script-response-body https://raw.githubusercontent.com/amwsuhje/AllProxy/main/hundun.js
 
 ***************************************/
 
