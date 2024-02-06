@@ -13,7 +13,7 @@ TG频道群：暂无
 
 [rewrite_local]
 
-^http[s]?:\/\/biz\.(caiyunapp|cyapi)\.(com|cn)\/v2\/user.*$ url script-response-body https://raw.githubusercontent.com/WeiRen0/Scripts/main/cytq.js
+^http[s]?:\/\/biz\.(caiyunapp|cyapi)\.(com|cn)\/v2\/user.*$ url script-response-body https://raw.githubusercontent.com/amwsuhje/AllProxy/main/cytq.js
 
 [mitm]
 hostname = *.caiyunapp.*,*cyapi*
