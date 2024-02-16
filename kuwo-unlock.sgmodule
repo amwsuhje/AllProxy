@@ -1,0 +1,10 @@
+﻿#!name=酷我音乐会员
+#!desc=新版酷我若无效 请更换酷我音乐纯净版
+#!homepage=https://whatshub.top
+#!author=NobyDa
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/kuwosvip.png
+[Script]
+酷我音乐完美解锁=type=http-response,pattern=^https?:\/\/.*\.(kuwo|lrts)\.(cn|me)\/(a\.p|music\.pay|(vip\/(v2|enc)\/(theme|user\/vip))|(EcomResource|(Mobile)?Ad)Serv(er|ice)).*,requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Kuwo.js
+
+[MITM]
+hostname = %APPEND% *.kuwo.cn, *.lrts.me
