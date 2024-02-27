@@ -1,14 +1,10 @@
 #!name=彩雲天氣Pro
 #!desc=彩雲天氣Pro
 
-[MITM]
-
-hostname= %APPEND% *.caiyunapp.com,*.cyapi.com,*.cyapi.cn ,*.caiyunapp.cn
 
 [Script]
+# > 彩云天气 解锁vip
+cytq = type=http-response, pattern=^https?:\/\/biz.cyapi.cn\/(p\/v1\/user_info|v2\/user).*$, script-path=https://raw.githubusercontent.com/WeiGiegie/666/main/cytq.js, requires-body=true, max-size=-1, timeout=60
 
-彩云天气pro=type=http-response,pattern=^http[s]?:\/\/biz\.(caiyunapp|cyapi)\.(com|cn)\/v2\/user.*$,requires-body=1,script-path=https://raw.githubusercontent.com/amwsuhje/AllProxy/main/cytq.js, requires-body=true, max-size=-1, timeout=60
-
-[URL Rewrite]
-
-^https:\/\/ad\.caiyunapp\.com\/ _ reject
+[MITM]
+hostname = %APPEND% biz.cyapi.cn
