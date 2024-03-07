@@ -1,0 +1,9 @@
+#!name=开练会员
+#!desc=解锁开练永久会员
+
+[Script]
+kailian = type=http-response, pattern=https://fitness-notes\.nanxiani\.cn/api/v*(|user_diet_recommend|user_info)/?, script-path=https://raw.githubusercontent.com/Yu9191/Rewrite/main/kailian.js, requires-body=true, max-size=-1, timeout=60
+
+[MITM]
+hostname = %APPEND% fitness-notes.nanxiani.cn
+
