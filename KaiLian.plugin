@@ -1,0 +1,11 @@
+#!name=开练会员
+#!desc=解锁永久VIP
+#!author= iOS
+#!icon=https://github.com/Toperlock/Quantumult/raw/main/icon/Doraemon/Doraemon-1098.png
+
+
+[Script]
+http-response https://fitness-notes\.nanxiani\.cn/api/v*(|user_diet_recommend|user_info)/? script-path=https://raw.githubusercontent.com/Yu9191/Rewrite/main/kailian.js, requires-body=true, timeout=60, tag=kailian
+
+[MITM]
+hostname = fitness-notes.nanxiani.cn
