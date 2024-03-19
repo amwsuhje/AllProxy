@@ -1,6 +1,6 @@
 #!name=咪咕音乐会员
 #!desc=解锁咪咕音乐Vip
-#!icon=https://github.com/Toperlock/Quantumult/raw/main/icon/Doraemon/Doraemon-1070.png
+#!icon=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/clubhouse.png
 
 [Rewrite]
 ^https://app\.c\.nf\.migu\.cn/member/api/marketing/text - reject
