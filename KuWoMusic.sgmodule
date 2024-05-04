@@ -1,0 +1,18 @@
+#!url=http://script.hub/file/_start_/https://raw.githubusercontent.com/amwsuhje/AllProxy/main/KuWo.js/_end_/KuWo.sgmodule?n=%E8%A7%A3%E9%94%81%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90%2B%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90vip&type=qx-rewrite&target=shadowrocket-module&del=true
+#!name=解锁酷我音乐
+#!desc=酷我音乐vip
+#!author=影子
+#!icon=https://file.napi.ltd/Static/Image/KuWo.png
+#!openUrl=https://napi.ltd
+#!homepage=https://napi.ltd
+#!date=2024-05-05
+
+[Rule]
+USER-AGENT,KWPlayer*,DIRECT
+
+[Script]
+酷我音乐 = type=http-response, pattern=^(?!.*img).*?kuwo\.cn(/vip|/openapi)?(/enc|/audi.tion|/v[\d]/(user/vip\?(vers|apiVersion|platform|op\=ui|_t)|theme\?op=gd|sysinfo\?op=getRePayAndDoPayBoxNew|api(/pay)?/((user/personal/)?user/info|payInfo/kwplayer/payMiniBar|advert/(myPage|iListen|album))|album/(adBar|myRec/vipMusic))|/kuwopay/vip-tab/setting|/(audioApi/)?a\.p($|\?op\=getvip|.*?ptype\=vip)|/mobi\.s\?f\=kwxs|/music\.pay\?newver\=3$|/(EcomResource|(Mobile)?Ad)Serv(er|ice)), script-path=https://napi.ltd/script/BackUP/KuWo.js, requires-body=true, timeout=60
+
+[MITM]
+hostname = %APPEND% *.kuwo.cn
+
