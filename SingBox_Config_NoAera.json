@@ -28,28 +28,12 @@
     "strategy": "prefer_ipv4"
   },
 
-    "inbounds": [
+  "inbounds": [
     {
       "type": "tun",
       "address": "172.19.0.1/30",
       "mtu": 9000,
-      "auto_route": true,
-      "sniff": true,
-      "stack": "system",
-      "platform": {
-        "http_proxy": {
-          "enabled": true,
-          "server": "127.0.0.1",
-          "server_port": 2080
-        }
-      }
-    },
-    {
-      "type": "mixed",
-      "listen": "127.0.0.1",
-      "listen_port": 2080,
-      "sniff": true,
-      "users": []
+      "auto_route": true
     }
   ],
 
